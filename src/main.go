@@ -7,7 +7,7 @@ import (
 	"os"
 
 	"github.com/prometheus/client_golang/prometheus/promhttp"
-	"github.com/sermer07/panel/tree/main/src/handlers"
+	"github.com/sermer07/panel/main/src/handlers"
 )
 
 type ViewData struct {
