@@ -1,4 +1,4 @@
-module panel
+module github.com/sermer07/panel
 
 go 1.22.5
 
